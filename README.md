@@ -19,7 +19,7 @@ MinGlobal: without quotes <br />
 MinRecommended: without quotes <br />
 MaxRecommended: without quotes <br />
 DifferenceMinRecommendMinTheory: without quotes <br />
-EnqueuedTimeSP: DD/MM/YYYY (converted to Brasilian timezone - UTC-3) 
+EnqueuedTimeSP: DD/MM/YYYY (converted to Brazilian timezone - UTC-3) 
 
 ### 3️⃣ CuratedOfferOptions.csv
 CurationProvider: in quotes <br />
