@@ -6,11 +6,11 @@ This is done via Python, mainly with json and pandas.
 
 ## CSVs:
 ### 1️⃣ DynamicPriceOption.csv
-Provider: in quotes
-OfferId: in quotes
-UniqueOptionId: in quotes
-BestPrice: without quotes
-EnqueuedTimeSP: DD/MM/YYYY (converted to Brazilian timezone - UTC-3)
+Provider: in quotes \
+OfferId: in quotes \
+UniqueOptionId: in quotes \
+BestPrice: without quotes \
+EnqueuedTimeSP: DD/MM/YYYY (converted to Brazilian timezone - UTC-3) \
 
 ### 2️⃣ DynamicPriceRange.csv
 Provider: in quotes
